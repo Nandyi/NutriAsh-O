@@ -1,0 +1,24 @@
+﻿* Wood Ash:
+   * Source: Generated from burning wood, typically from firewood, timber, or wood pellets.
+   * Characteristics: Contains potassium, calcium, magnesium, and trace elements. It has alkaline properties, which can help neutralize acidic soils.
+   * Benefits: Improves soil pH, adds essential nutrients, enhances soil structure, and promotes plant growth.
+* Charcoal Ash:
+   * Source: Produced from burning charcoal, often derived from wood or agricultural residues.
+   * Characteristics: Similar to wood ash but may have a higher carbon content and lower moisture content.
+   * Benefits: Provides potassium, calcium, and other nutrients beneficial for plant growth. It can also improve soil fertility and water retention.
+* Crop Residue Ash:
+   * Source: Ash generated from burning crop residues such as straw, husks, stalks, or leaves.
+   * Characteristics: Contains nutrients from the burned plant material, including potassium, phosphorus, and micronutrients.
+   * Benefits: Recycles nutrients back into the soil, enhances soil fertility, improves organic matter content, and reduces waste from crop residues.
+* Manure Ash:
+   * Source: Ash produced from burning animal manure, including poultry litter, cow dung, or horse manure.
+   * Characteristics: Rich in nutrients such as potassium, phosphorus, nitrogen, and micronutrients.
+   * Benefits: Provides organic matter, improves soil structure, adds nutrients to the soil, enhances microbial activity, and reduces odors from raw manure.
+* Biomass Ash:
+   * Source: Ash derived from burning various biomass sources, including agricultural residues, forestry waste, energy crops, or bioenergy production.
+   * Characteristics: Composition varies depending on the biomass source but may contain potassium, phosphorus, calcium, and other minerals.
+   * Benefits: Recycles nutrients from biomass back into the soil, improves soil fertility, promotes carbon sequestration, and supports sustainable energy production.
+* Seaweed Ash:
+   * Source: Ash produced from burning seaweed or kelp, often collected from coastal regions.
+   * Characteristics: Rich in potassium, iodine, trace minerals, and organic matter.
+   * Benefits: Provides essential nutrients for plant growth, enhances soil fertility, improves water retention, and adds beneficial compounds from seaweed extracts.
