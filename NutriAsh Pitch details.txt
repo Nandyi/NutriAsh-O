@@ -11,6 +11,9 @@ Unique Value Proposition
 Market Opportunity
 * Growing demand for sustainable agriculture solutions especially organic farming.
 * Key Points: NutriAsh targets a lucrative and expanding market segment.
+Target Market
+* Consumers: Urban farmers practicising organic farming.
+* Suppliers: Briquetting units that have direct access to ash from their customers
 Vision for the Future
 * Transforming agriculture into a climate-resilient and sustainable industry.
 * Key Points: NutriAsh aims to empower urban farmers and mitigate climate change impacts.
@@ -18,5 +21,7 @@ Product Overview
 * NutriAsh - Sustainable Soil Amendments
 * Key Points: NutriAsh is locally sourced, eco-friendly, and nutrient-rich.
 How It Works
-* Process: Collection, Processing, and Distribution
+* Collection: Partner with briquetting units to collect ash generated from their production and users
+* Processing: We process and package the ash, with a blend tailored for urban farming needs.
+* Distribution: We distribute NutriAsh through online platforms and gardening stores, and community outreach programs
 * Key Points: Ash is collected from biomass briquetting units, processed into soil amendments, and distributed to urban farmers.
